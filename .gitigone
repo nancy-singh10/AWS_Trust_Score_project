@@ -1,0 +1,15 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore parquet files
+*.parquet
+
+# Ignore data folder completely (optional but recommended)
+data/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore env files
+.env
